@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Sophia Vieira  
 - 👀 I’m interested in programming and data science.  
 - 🌱 I’m currently studying Data Science at the Federal University of Minas Gerais (UFMG).  
-- 📫 How to reach me: vieirasophiaeduarda@gmail.com   
+- 📫 How to reach me: sophiaevieira@ufmg.com.br  
 
 <!---
 sophiaevieira/sophiaevieira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
