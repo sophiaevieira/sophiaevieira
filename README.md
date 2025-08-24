@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Sophia Vieira!
 
-I'm a **Data Science** undergraduate student at the Federal University of Minas Gerais (UFMG) and a **Researcher** at the [Social Computing Lab (Locus)](http://locus.dcc.ufmg.br/). 
+I'm a **Data Science** undergraduate student at the Federal University of Minas Gerais (UFMG) and a **Researcher** at the [Social Computing Lab (Locus)](https://dcc.ufmg.br/laboratorio-de-computacao-social). 
 
 ### 💻 Technical Skills
 
