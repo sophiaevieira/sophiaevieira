@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=3396FF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Sophia+Vieira!;Cientista+de+Dados+em+forma%C3%A7%C3%A3o.;Pesquisadora+no+Locus-UFMG.;Apaixonada+por+tecnologia!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=3396FF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Sophia!" alt="Typing SVG" /></a>
 
 I'm a **Data Science** undergraduate student at the Federal University of Minas Gerais (UFMG) and a **Researcher** at the [Social Computing Lab (Locus)](https://dcc.ufmg.br/laboratorio-de-computacao-social). 
 
