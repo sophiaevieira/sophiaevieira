@@ -7,9 +7,9 @@
 ### 💻 Technical Skills
 <p>
   <b>Languages</b><br>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-9B59B6?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-FFDD57?style=for-the-badge&logo=cplusplus&logoColor=black"></a>
-  <a href="#"><img alt="C" src="https://img.shields.io/badge/C-FF69B4?style=for-the-badge&logo=c&logoColor=white"></a>
+  <a href="#"><img alt="C" src="https://img.shields.io/badge/C-9B59B6?style=for-the-badge&logo=c&logoColor=white"></a>
  
 </p>
 <p>
@@ -28,14 +28,14 @@
 </p>
 <p>
   <b>Other Tools</b><br>
-  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-FFDD57?style=for-the-badge&logo=jupyter&logoColor=black"></a>
-  <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-9B59B6?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
+  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-9B59B6?style=for-the-badge&logo=jupyter&logoColor=white"></a>
+  <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-FF69B4?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
 </p>
 
 ---
 
 ### 📫 How to Reach Me
 <p>
-  <a href="mailto:sophiaevieira@ufmg.com.br"><img alt="Email" src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:sophiaevieira@ufmg.com.br"><img alt="Email" src="https://img.shields.io/badge/Email-FFDD57?style=for-the-badge&logo=gmail&logoColor=black"></a>
   <a href="https://www.linkedin.com/in/sophiaevieira"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
