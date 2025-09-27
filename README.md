@@ -3,7 +3,6 @@
 **Data Science** undergraduate student at the Federal University of Minas Gerais (UFMG) and a **Researcher** at the [Social Computing Lab (Locus)](https://dcc.ufmg.br/laboratorio-de-computacao-social).
 
 ### 💻 Technical Skills
-
 <p>
   <b>Languages</b><br>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
