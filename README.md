@@ -4,7 +4,7 @@
 
 ---
 
-### 💻 Technical Skills
+### Technical Skills
 <p>
   <b>Languages</b><br>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-9B59B6?style=for-the-badge&logo=python&logoColor=white"></a>
@@ -35,7 +35,7 @@
 
 ---
 
-### 📫 How to Reach Me
+### How to Reach Me
 <p>
   <a href="mailto:sophiaevieira@ufmg.com.br"><img alt="Email" src="https://img.shields.io/badge/Email-FFDD57?style=for-the-badge&logo=gmail&logoColor=black"></a>
   <a href="https://www.linkedin.com/in/sophiaevieira"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"></a>
