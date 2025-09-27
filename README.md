@@ -1,10 +1,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=9B59B6&vCenter=true&lines=Hi,+I'm+Sophia!" alt="Typing SVG" /></a>
 
-**Data Science** undergraduate student at the Federal University of Minas Gerais (UFMG) and a **Researcher** at the [Social Computing Lab (Locus)](https://dcc.ufmg.br/laboratorio-de-computacao-social).
+**Data Science** undergraduate student at the Federal University of Minas Gerais (UFMG) and a **Researcher** at the [<img alt="Social Computing Lab (Locus)" src="https://img.shields.io/badge/Social_Computing_Lab_(Locus)-FFDD57?style=for-the-badge&logoColor=black">](https://dcc.ufmg.br/laboratorio-de-computacao-social).
 
 ---
 
-### Technical Skills
+### 💻 Technical Skills
 <p>
   <b>Languages</b><br>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-9B59B6?style=for-the-badge&logo=python&logoColor=white"></a>
@@ -35,7 +35,7 @@
 
 ---
 
-### How to Reach Me
+### 📫 How to Reach Me
 <p>
   <a href="mailto:sophiaevieira@ufmg.com.br"><img alt="Email" src="https://img.shields.io/badge/Email-FFDD57?style=for-the-badge&logo=gmail&logoColor=black"></a>
   <a href="https://www.linkedin.com/in/sophiaevieira"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"></a>
