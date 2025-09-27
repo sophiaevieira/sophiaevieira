@@ -22,14 +22,14 @@
 </p>
 <p>
   <b>Databases & Version Control</b><br>
-  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-9B59B6?style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-FFDD57?style=for-the-badge&logo=github&logoColor=black"></a>
+  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-9B59B6?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-FFDD57?style=for-the-badge&logo=git&logoColor=black"></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <p>
   <b>Other Tools</b><br>
-  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-FF69B4?style=for-the-badge&logo=jupyter&logoColor=white"></a>
-  <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-9B59B6?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
+  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-9B59B6?style=for-the-badge&logo=jupyter&logoColor=white"></a>
+  <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-FFDD57?style=for-the-badge&logo=visualstudiocode&logoColor=black"></a>
 </p>
 
 ---
