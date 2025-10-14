@@ -37,6 +37,6 @@
 
 ### 📫 How to Reach Me
 <p>
-  <a href="mailto:sophiaevieira@ufmg.com.br"><img alt="Email" src="https://img.shields.io/badge/Email-FFDD57?style=for-the-badge&logo=gmail&logoColor=black"></a>
-  <a href="https://www.linkedin.com/in/sophiaevieira"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:sophiaevieira@ufmg.com.br"><img alt="Email" src="https://img.shields.io/badge/Email-FFDD57?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sophiaevieira"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=black"></a>
 </p>
